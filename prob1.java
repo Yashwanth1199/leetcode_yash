@@ -2,7 +2,7 @@
 //Even nums first followed by odd nums
 class Solution {
     public int[] sortArrayByParity(int[] nums) {
-        int e=0;//intializing a var to 0 to replace it with odd elements using it as an index
+        int e=0;//intializing a var to 0 to replace it with even elements using it as an index of array nums
         for(int i=0;i<nums.length;i++){
             if(nums[i]%2==0){
                 //basic swapping technique using third var
