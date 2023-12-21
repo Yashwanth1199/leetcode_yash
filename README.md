@@ -8,3 +8,5 @@ The links to all the questions are down below!
 
 [prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
 
+[prob5](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/)
+
