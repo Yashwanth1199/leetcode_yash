@@ -6,3 +6,5 @@ The links to all the questions are down below!
 
 [prob2](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/)
 
+[prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
+
