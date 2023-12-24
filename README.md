@@ -10,3 +10,5 @@ The links to all the questions are down below!
 
 [prob5](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/)
 
+[prob6](https://leetcode.com/problems/binary-search/description/)
+
