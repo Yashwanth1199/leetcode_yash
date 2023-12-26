@@ -12,3 +12,5 @@ The links to the questions are down below!
 
 [prob6](https://leetcode.com/problems/binary-search/description/)
 
+[prob7](https://leetcode.com/problems/fibonacci-number/description/)
+
