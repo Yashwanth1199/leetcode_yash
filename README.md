@@ -14,4 +14,4 @@ The links to the questions are down below!
 
 [prob7](https://leetcode.com/problems/fibonacci-number/description/)
 
-[prod8](https://leetcode.com/problems/two-sum/description/)
+[prob8](https://leetcode.com/problems/two-sum/description/)
