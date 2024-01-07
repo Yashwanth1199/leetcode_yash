@@ -4,7 +4,7 @@ The links to the questions are down below!
 
 [prob1](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3260/) || [prob9](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-[prob2](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/)
+[prob2](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/) || [prob10](https://leetcode.com/problems/palindrome-number/description/)
 
 [prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/)
 
