@@ -6,7 +6,7 @@ The links to the questions are down below!
 
 [prob2](https://leetcode.com/explore/learn/card/fun-with-arrays/511/in-place-operations/3575/) || [prob10](https://leetcode.com/problems/palindrome-number/description/)
 
-[prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) ||[prob11](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+[prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) || [prob11](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
 [prob5](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/)
 
