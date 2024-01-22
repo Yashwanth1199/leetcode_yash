@@ -8,7 +8,7 @@ The links to the questions are down below!
 
 [prob3](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3228/) || [prob11](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-[prob5](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/)
+[prob5](https://leetcode.com/explore/learn/card/fun-with-arrays/523/conclusion/3574/) || [prob12](https://leetcode.com/problems/reverse-integer/)
 
 [prob6](https://leetcode.com/problems/binary-search/description/)
 
